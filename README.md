@@ -18,11 +18,11 @@ There are 10 glasses with cola spilled unevenly. In one action, it is allowed to
   27
   2
   3
-  four
+  4
   5
   6
   7
-  eight
+  8
   9
   
   Output:
