@@ -1,5 +1,7 @@
 # TenGlasses
-10 glasses with cola (It's just an exercise)
+10 glasses with cola 
+
+It's just an exercise!
 
 There are 10 glasses with cola spilled unevenly. In one action, it is allowed to take one glass and pour some cola (perhaps all) from this glass into the rest of the glasses in any proportions (accordingly, you can not pour anything into some glasses).
   What is the least number of steps you can take to fairly (equally) split the cola between all the glasses?
