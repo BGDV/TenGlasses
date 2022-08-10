@@ -24,11 +24,11 @@
   27
   2
   3
-  four
+  4
   5
   6
   7
-  eight
+  8
   9
   
   Output:
